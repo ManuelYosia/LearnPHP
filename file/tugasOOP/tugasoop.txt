@@ -1,0 +1,13 @@
+Buat 2 kelas orang tua dan anak
+atribut orang tua:
+-nama
+-duit
+-bisa ngasih uang
+
+atribut anak:
+-nama
+-duit
+-bisa nerima uang
+
+output
+menampilkan uang orang tua dan anak.
